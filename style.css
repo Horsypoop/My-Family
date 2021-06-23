@@ -1,0 +1,20 @@
+img{
+width: 500px;
+height: 500px;
+}
+html{
+background-color: aquamarine;
+text-align: center;
+}
+h1{
+    font-size: 100px;
+}
+button{
+    font-size: 50px;
+    background-color: black;
+    color:wheat;
+}
+h2{
+font-size: 30px;
+color: chocolate;
+}
